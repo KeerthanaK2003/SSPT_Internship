@@ -1,3 +1,4 @@
+//half adder
 module top (
     input  [9:0] SW,     // Switches on DE10-Lite
     output [9:0] LEDR    // LEDs on DE10-Lite
@@ -23,4 +24,5 @@ assign LEDR[1] = carry;   // LEDR[1] = carry output
 assign LEDR[9:2] = 8'b0;  // Remaining LEDs OFF
 
 endmodule
+
 
