@@ -8,3 +8,5 @@ Day 02 (Sep 2, 2025) -> Designed the full adder, logic gates and 4:1 mux verilog
 Day 03 (Sep 3, 2025) -> Integrated DE- 10 Lite board with full adder, logic gates verilog code and verified the output using the board. Also learnt some basics of Nios II.
 
 Day 04 (Sep 4, 2025) -> Today , actually I had taken sick leave, yet workon simple project 2:1 MUX. I also studied basics of system verilog.
+
+Day 05 (Sep 5, 2025) -> 
