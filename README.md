@@ -10,3 +10,6 @@ Day 03 (Sep 3, 2025) -> Integrated DE- 10 Lite board with full adder, logic gate
 Day 04 (Sep 4, 2025) -> Today , actually I had taken sick leave, yet workon simple project 2:1 MUX. I also studied basics of system verilog.
 
 Day 05 (Sep 5, 2025) -> 
+
+
+https://www.elprocus.com/sipo-shift-register/
