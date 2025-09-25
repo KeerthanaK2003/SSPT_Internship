@@ -13,3 +13,5 @@ Day 05 (Sep 5, 2025) ->
 
 
 https://www.elprocus.com/sipo-shift-register/
+
+Sep 25 - esim software working study
