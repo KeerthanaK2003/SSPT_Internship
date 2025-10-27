@@ -16,3 +16,6 @@ https://www.elprocus.com/sipo-shift-register/
 
 Sep 25 - esim software working study
 26 - same+ certificate
+
+
+Oct 27 -
