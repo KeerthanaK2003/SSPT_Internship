@@ -20,3 +20,5 @@ Sep 25 - esim software working study
 
 Oct 27 -
 Oct 28 -
+29,30,31,
+nov 1
